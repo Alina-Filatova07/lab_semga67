@@ -1,4 +1,4 @@
-
+#include "fenwick_tree.hpp"
 #include "sparse_table.hpp"
 #include <iostream>
 #include <vector>
